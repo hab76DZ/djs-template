@@ -12,6 +12,7 @@ Voici comment installer votre bot grâce à ce template
 ```bash
   npm init
   npm install
+  node bot.js
 ```
 
 ## Documentation
