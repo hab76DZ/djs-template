@@ -1,0 +1,6 @@
+{
+    "token":"votre-bot-token",
+    "id":"votre-bot-id",
+    "db":"votre-url-mongodb",
+    "owner": ["votre-id-utilsateur"]
+}
